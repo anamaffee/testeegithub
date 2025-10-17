@@ -1,7 +1,7 @@
 body{
     margin: 0%;
     padding: 0%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(128, 103, 65);
 }
 img{
     width:800px;
@@ -9,11 +9,17 @@ img{
     margin-left: 290px;
 }
 h1{
-    margin-left: 500px;
+    margin-left: 1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
 }
 h2{
-    margin-left: 380px;
+    margin-left: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 p{
-    margin-left: 300px;
+    margin-left: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
